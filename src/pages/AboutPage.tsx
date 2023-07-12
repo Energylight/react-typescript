@@ -1,6 +1,6 @@
 export function AboutPage() {
     return (
-        <div>
+        <div className="stars">
             <h1>About</h1>
         </div>
     )
